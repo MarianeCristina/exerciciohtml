@@ -1,0 +1,76 @@
+- Site responsivo
+- Ver os estados de foco e foco para elementos interativos
+
+
+Você encontrará uma versão móvel e uma versão para desktop do design. Os designs estão no formato estático JPG. 
+Usar JPGs significa que você precisará usar seu melhor julgamento para estilos como `font-size`, `padding` e `margin`.
+
+Há também um arquivo `style-guide.md` contendo as informações necessárias, como paleta de cores e fontes
+
+Inicialize seu projeto como um repositório público no [GitHub](https://github.com/). 
+A criação de um repositório facilitará o compartilhamento de seu código com a comunidade, caso você precise de ajuda. 
+Se você não tiver certeza de como fazer isso, [leia este recurso Try Git](https://try.github.io/)
+
+ há muitas maneiras de hospedar seu projeto gratuitamente. 
+Nossos hosts recomendados são: - [GitHub Pages](https://pages.github.com/) - [Vercel](https://vercel.com/) - 
+[Netlify](https://www.netlify.com /)
+
+## Criar um `README.md` personalizado É altamente recomendável substituir este `README.md` por um personalizado. 
+Fornecemos um modelo dentro do arquivo [`README-template.md`](./README-template.md) neste código inicial. 
+O modelo fornece um guia sobre o que adicionar. Um `README` personalizado ajudará você a explicar seu projeto e 
+refletir sobre seus aprendizados. Sinta-se à vontade para editar nosso modelo o quanto quiser. 
+Depois de adicionar suas informações ao modelo, exclua este arquivo e renomeie o arquivo `README-template.md` 
+para `README.md`. Isso fará com que apareça como o arquivo README do seu repositório.
+
+Siga nosso ["Guia completo para enviar soluções"]
+(https://medium.com/frontend-mentor/a-complete-guide-to-submitted-solutions-on-frontend-mentor-ac6384162248) 
+para obter dicas sobre como fazer isto.
+
+  # Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+### Primary
+
+- Dark cyan: hsl(158, 36%, 37%)
+- Cream: hsl(30, 38%, 92%)
+
+### Neutral
+
+- Very dark blue: hsl(212, 21%, 14%)
+- Dark grayish blue: hsl(228, 12%, 48%)
+- White: hsl(0, 0%, 100%)
+
+## Typography
+
+### Body Copy
+
+- Font size (paragraph): 14px
+
+### Font
+
+- Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- Weights: 500, 700
+
+- Family: [Fraunces](https://fonts.google.com/specimen/Fraunces)
+- Weights: 700
+
+*******************************************************************************************************************
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Your Name Here</a>.
+  </div>
+
+.attribution{
+    font-size: 11px;
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+}
+ 
